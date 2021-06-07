@@ -4,7 +4,7 @@ import "./DappToken.sol";
 import "./DaiToken.sol";
 
 contract TokenFarm {
-    string public name = "DApp Token Farm";
+    string public name = "Dapp Token Farm";
     address public owner;
     DappToken public dappToken;
     DaiToken public daiToken;
